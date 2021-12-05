@@ -1,0 +1,136 @@
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.AssemblyReference.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.Game.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.StartScreen.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.GenerateResource.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfoInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfo.cs
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.CoreCompileInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.exe
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.deps.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.dev.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.genruntimeconfig.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.exe
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.deps.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.dev.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.AssemblyReference.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.Game.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.StartScreen.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.GenerateResource.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfoInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfo.cs
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.CoreCompileInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task (2)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.genruntimeconfig.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.AssemblyReference.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.Game.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.StartScreen.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.GenerateResource.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfoInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfo.cs
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.CoreCompileInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.exe
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.deps.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.dev.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects\GADE Task 2 (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.genruntimeconfig.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.exe
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.deps.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.dev.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.AssemblyReference.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.Game.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.StartScreen.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.GenerateResource.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfoInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfo.cs
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.CoreCompileInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (1st Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.genruntimeconfig.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.AssemblyReference.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.Game.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.StartScreen.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.GenerateResource.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfoInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfo.cs
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.CoreCompileInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.exe
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.deps.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.dev.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (2nd Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.genruntimeconfig.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.exe
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.deps.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.dev.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.AssemblyReference.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.Game.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.StartScreen.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.GenerateResource.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfoInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfo.cs
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.CoreCompileInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (3rd Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.genruntimeconfig.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.exe
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.deps.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.dev.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.AssemblyReference.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.Game.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.StartScreen.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.GenerateResource.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfoInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfo.cs
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.CoreCompileInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (4th Draft) - Copy\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.genruntimeconfig.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.exe
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.deps.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.runtimeconfig.dev.json
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\bin\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.AssemblyReference.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.Game.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE_Task.StartScreen.resources
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.GenerateResource.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfoInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.AssemblyInfo.cs
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.csproj.CoreCompileInputs.cache
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.dll
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.pdb
+C:\Users\zoe\OneDrive\Documents\School\Uni\C# Projects (GADE)\POE\GADE POE (6th Draft)\GADE Task\obj\Debug\netcoreapp3.1\GADE Task.genruntimeconfig.cache
